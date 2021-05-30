@@ -1,0 +1,7 @@
+C:\Users\mort286f\source\repos\FlaskeAutomatenOpgave\FlaskeAutomatenOpgave\bin\Debug\FlaskeAutomatenOpgave.exe.config
+C:\Users\mort286f\source\repos\FlaskeAutomatenOpgave\FlaskeAutomatenOpgave\bin\Debug\FlaskeAutomatenOpgave.exe
+C:\Users\mort286f\source\repos\FlaskeAutomatenOpgave\FlaskeAutomatenOpgave\bin\Debug\FlaskeAutomatenOpgave.pdb
+C:\Users\mort286f\source\repos\FlaskeAutomatenOpgave\FlaskeAutomatenOpgave\obj\Debug\FlaskeAutomatenOpgave.csprojAssemblyReference.cache
+C:\Users\mort286f\source\repos\FlaskeAutomatenOpgave\FlaskeAutomatenOpgave\obj\Debug\FlaskeAutomatenOpgave.csproj.CoreCompileInputs.cache
+C:\Users\mort286f\source\repos\FlaskeAutomatenOpgave\FlaskeAutomatenOpgave\obj\Debug\FlaskeAutomatenOpgave.exe
+C:\Users\mort286f\source\repos\FlaskeAutomatenOpgave\FlaskeAutomatenOpgave\obj\Debug\FlaskeAutomatenOpgave.pdb
